@@ -1,0 +1,64 @@
+* {
+    background-color: beige;
+    font-family: serif;
+}
+
+hr {
+    height: 3px;
+    background-color: black;
+    margin: 10px 0px;
+}
+
+h1 {
+    border-radius: 10px;
+    background-color: grey;
+    color: skyblue;
+    font-size: 32pt;
+    height: 6vh;
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: lightblue;
+    font-size: 24pt;
+    font-weight: 300;
+    margin: 20px;
+}
+p {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+
+.center{
+    color: black;
+    margin-top: -20px;
+    text-align: center;
+}
+
+button {
+    color: skyblue;
+    margin-left: 25vh;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+}
+div > img {
+    max-width: 300px;
+    max-height: 300px;
+    margin-left: 100vh;
+    border-radius: 25%;
+}
+div > p {
+    margin: 10px 300px;
+}
+footer > span {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    background-color: black;
+    color: skyblue;
+}
+
